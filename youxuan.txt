@@ -1,3 +1,4 @@
+//优选域名
 uspto.gov:443
 kniu.cc:443
 www.jp.pima.gov:2053
